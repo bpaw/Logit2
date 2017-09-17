@@ -3,9 +3,17 @@
   "version": "1.0.0",
   "description": "Updating old project, Logit, to use newer technology and help me remember how to use MEAN.",
   "main": "index.js",
+  "dependencies" : {
+        "express" : "latest",
+        "gulp" : "latest"
+    },
   "scripts": {
     "test": "test"
   },
   "author": "Brandon Paw",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/bpaw/Logit2.git"
+	}
 }
