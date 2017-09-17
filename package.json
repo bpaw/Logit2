@@ -1,0 +1,11 @@
+{
+  "name": "logit2",
+  "version": "1.0.0",
+  "description": "Updating old project, Logit, to use newer technology and help me remember how to use MEAN.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Brandon Paw",
+  "license": "ISC"
+}
